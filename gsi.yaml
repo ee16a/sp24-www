@@ -58,7 +58,7 @@
     role: Lab
     image: LydiaIgnatova.jpg
     pronouns: she/her/hers
--   name: Oscar Alberto Tapia Gallegos
+-   name: Oscar Gallegos
     email: oscar.tapia.g@
     bio: "Hello! I'm Oscar, I am a third year physics and computer science student, originally from Mexico, but lived in the US for a very big chunk of my life. I like semiconductors, and other cool physics stuff like quantum computers. Outside of school, I like playing video games, hanging out with friends, and watching and playing sports mostly soccer and football. Looking forward to having a good time in lab!"
     role: Lab
@@ -70,6 +70,12 @@
     role: Lab
     image: EricGarcia.jpg
     imageFun: EricGarciaFun.jpg
+    pronouns: he/him/his
+-   name: Nikhil Ograin
+    email: ncograin@berkeley.edu
+    bio: "Hi! I’m Nikhil and I’m a third year EECS major. Coincidentally this is also my third semester on course staff! My technical interests are low-level programming, computer architecture, and HV PCB design. In my freetime I read books, play board/card/video games, look at airplanes, and bicycle. I’m so excited to delve back into circuits and meet everyone in lab! Feel free to reach out about the course, about lab, or about anything else!"
+    role: Lab
+    image: NikhilOgrain.jpg
     pronouns: he/him/his
 -   name: Amy Song
     email: amysong@
@@ -112,3 +118,15 @@
     image: CarolannDong.jpg
     imageFun: CarolannDongFun.jpg
     pronouns: she/her/hers
+-   name: Kailash Ranganathan
+    email: kranganathan@
+    bio: "Hi everyone! I'm Kailash, a rising 2nd year studying EECS and physics. I’m interested in ML theory & hardware and condensed matter physics, and in my free time, I like to play music, read, and go on runs (in no particular direction). 16A was a great learning experience for me, so I'm excited to tutor this semester and meet you all!"
+    role: OH/Grading
+    image: KailashRanganathan.jpg
+    pronouns: he/him/his
+-   name: Rohan Aanegola
+    email: rohanaanegola@
+    bio: "Hi! I'm a second year EECS major and I'm interested in computer vision and robotics! I'm also super into basketball (Lakers ftw), anime, and Star Wars! May the force be with you, and Plus Ultra :)"
+    role: OH/Grading
+    image: RohanAanegola.jpg
+    pronouns: he/him/his
