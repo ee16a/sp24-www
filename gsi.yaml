@@ -30,13 +30,13 @@
     email: sayan_seal@
     bio: "Hi! I am a graduate student in the EECS department, but I primarily work with the MCB department. My research interests include deep learning and microscopy. In my free time, I enjoy hiking and traveling around, reading books, and cooking. I am also into numismatics, and love collecting currencies of different countries. Feel free to reach out to me about anything!"
     role: GSI
-    image: SayanSeal.jpg
+    image: SayanSeal.JPG
     pronouns: he/him/his
 -   name: Jiarui Zou
     email: jiarui.zou@
     bio: "Greetings! I'm Jiarui, a 3rd year Ph.D. student in Electrical Engineering, specializing in circuit design. My passions include computer hardware, driving, cycling, and I'm excited to engage with you all in class!"
     role: GSI
-    image: JiaruiZou.jpg
+    image: JiaruiZou.JPG
     pronouns: he/him/his
 -   name: Manooshree Patel
     email: manooshreepatel@
@@ -109,7 +109,7 @@
     bio: "Hi, everyone! I'm a 3rd year CS + DS double major from Seoul, South Korea. This is my 4th semester on 16A staff team. My technical interests include various aspects of hardware and software--from computer architecture to robotics & control. I like playing the piano in my free time unless I'm stuck in the library lol. Any recommendations for classical or new age piano pieces are always welcome! Looking forward to another amazing semester!"
     role: Office Hours Staff
     image: SooHyukCho.jpg
-    imageFun: SooHyukChoFun.jpg
+    imageFun: SooHyukChoFun.JPG
     pronouns: he/him/his
 -   name: Divya Ramesh
     email: divyaramesh@
@@ -166,7 +166,7 @@
     email: syeon-um@
     bio: "Hi All! I'm Alex, a rising sophomore from Sunnyvale majoring in IEOR and EECS. I like to code, analyze circuits, and play the piano. Looking forward to meeting you all!"
     role: Lab
-    image: AlexUm.jpg
+    image: AlexUm.JPG
     imageFun: AlexUmFun.jpg
     pronouns: he/him/his
 -   name: Ronit Nagarapu
@@ -276,5 +276,5 @@
     email: julee6@
     bio: "Hello! I'm a junior studying computer science and my interests are in embedded systems and virtualization. During my free time I enjoy swimming, playing underwater hockey, and going on trips. Hope you enjoy this class!"
     role: Lab
-    image: JustinLee.jpg
+    image: JustinLee.JPG
     pronouns: he/him/his
