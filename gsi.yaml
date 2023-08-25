@@ -160,7 +160,8 @@
     email: tvisha.londhe@
     bio: "Hi! I am Tvisha, a sophomore studying EECS. I am interested in machine learning and cloud computing for scaling applications. I love playing tennis, running, and going on hikes with my dog: ) I am very excited to help with EECS 16A this semester! "
     role: Office Hours Staff
-    image: FrancescoCrivelli.JPG
+    image: TvishaLondhe.jpg
+    imageFun: TvishaLondheFun.jpg
     pronouns: she/her/hers
 -   name: Alexander Di
     email: alexanderdi@
@@ -277,6 +278,7 @@
     bio: "Hey! I am a second year studying EECS and Business. I’m interested in the intersections of my majors, such as product management, consulting, and software. In my free time, I like to work out, experiment in the kitchen, and explore new places! I really enjoyed the emphasis on application of content in EECS 16A, and I am sure you all will come  to enjoy the class as well! :)"
     role: Lab Staff
     image: ShivanshiTandon.jpg
+    imageFun: ShivanshiTandonFun.jpg
     pronouns: she/her/hers
 -   name: Justin Lee
     email: julee6@
@@ -288,5 +290,5 @@
     email: crivelli@
     bio: "Hi! My name is Francesco. I am a rising junior majoring in EECS. I have loved FPV since I was a young kid, starting from the basics, like breaking my mom's favorite jar. I am now focusing my studies in Robotics really interest into control, specially for UAV applications."
     role: Lab Staff
-    image: FrancescoCrivelli.JPG
+    image: FrancescoCrivelli.jpg
     pronouns: he/him/his
