@@ -156,6 +156,12 @@
     role: Office Hours Staff
     image: TejaKanthamneni.jpg
     pronouns: he/him/his
+-   name: Tvisha Londhe
+    email: tvisha.londhe@
+    bio: "Hi! I am Tvisha, a sophomore studying EECS. I am interested in machine learning and cloud computing for scaling applications. I love playing tennis, running, and going on hikes with my dog: ) I am very excited to help with EECS 16A this semester! "
+    role: Office Hours Staff
+    image: FrancescoCrivelli.JPG
+    pronouns: she/her/hers
 -   name: Alexander Di
     email: alexanderdi@
     bio: "I'm a junior studying EECS and chemistry. Aside from microelectronics and embedded systems, you can find me enjoying origami folding and tennis. Excited to meet you all this semester!"
@@ -277,4 +283,10 @@
     bio: "Hello! I'm a junior studying computer science and my interests are in embedded systems and virtualization. During my free time I enjoy swimming, playing underwater hockey, and going on trips. Hope you enjoy this class!"
     role: Lab Staff
     image: JustinLee.JPG
+    pronouns: he/him/his
+-   name: Francesco Crivelli
+    email: crivelli@
+    bio: "Hi! My name is Francesco. I am a rising junior majoring in EECS. I have loved FPV since I was a young kid, starting from the basics, like breaking my mom's favorite jar. I am now focusing my studies in Robotics really interest into control, specially for UAV applications."
+    role: Lab Staff
+    image: FrancescoCrivelli.JPG
     pronouns: he/him/his
