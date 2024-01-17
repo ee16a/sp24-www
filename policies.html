@@ -75,6 +75,21 @@
                     <a href="policies.html#advice">Advice</a>
                   </div>
                 </li>
+                <li class="dropdown">
+                  <a class="dropbtn">Links</a>
+                  <div class="dropdown-content">
+                    <a target="_blank" href="https://edstem.org/us/courses/42577/discussion/">Ed</a>
+                    <a target="_blank" href="https://oh.eecs16a.org">OH Queue</a>
+                    <a target="_blank" href="https://www.gradescope.com/courses/572459">Gradescope</a>
+                    <a target="_blank" href="">Lab Checkoff</a>
+                    <a target="_blank" href=https://docs.google.com/forms/d/e/1FAIpQLSevlH4QOQe58JuyQTHsVCezciRS8EWnRVG_NIrwirPBEHnImQ/viewform?usp&#x3D;sf_link">Discussion Attendance</a>
+                    <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdF5GbufdXpg-o1SijuZ3l3XHJ1-pi5oSUEsvgiGuXxAhFGCQ/viewform?usp&#x3D;sf_link">Accommodations and Exceptions</a>
+                    <a target="_blank" href="">Status Check</a>
+
+
+
+                  </div>
+                </li>
                 <li><a id="na6" href="index.html#about">About</a></li>
               </ul>
             </div>
@@ -218,12 +233,13 @@ function getCurrFont() {
         function drawChart() {
             var data = google.visualization.arrayToDataTable([
                 ['Category', 'Points'],
-                ['Discussion Participation', 12],
                 ['Homework', 45],
                 ['Labs', 45],
                 ['Midterm 1', 50],
                 ['Midterm 2', 50],
-                ['Final', 98]
+                ['Final', 98],
+                ['Discussion Participation', 12],
+
             ]);
 
             var options = {
@@ -335,12 +351,14 @@ function getCurrFont() {
     <table class="table table-bordered table-striped" style="width: 30%">
         <tbody>
         <tr>
-            <td style="background: #c4cef2">A+</td>
-            <td>[N/A+)</td>
+            <td></td>
+            <td></td>
             <td style="background: #c4cef2">A</td>
             <td>[93+)</td>
             <td style="background: #c4cef2">A-</td>
             <td>[90+)</td>
+
+
         </tr>
         </tbody>
         <tbody>
@@ -351,6 +369,8 @@ function getCurrFont() {
             <td>[75+)</td>
             <td style="background: #c4cef2">B-</td>
             <td>[68+)</td>
+
+
         </tr>
         </tbody>
         <tbody>
@@ -361,6 +381,8 @@ function getCurrFont() {
             <td>[62+)</td>
             <td style="background: #c4cef2">C-</td>
             <td>[58+)</td>
+
+
         </tr>
         </tbody>
         <tbody>
@@ -371,6 +393,8 @@ function getCurrFont() {
             <td>[55+)</td>
             <td style="background: #c4cef2">D-</td>
             <td>[53+)</td>
+
+
         </tr>
         </tbody>
         <tbody>
@@ -381,6 +405,8 @@ function getCurrFont() {
             <td></td>
             <td></td>
             <td></td>
+
+
         </tr>
         </tbody>
     </table>
@@ -433,8 +459,7 @@ function getCurrFont() {
     </p>
     <ol>
         <li><b>Do the homework.</b></li>
-        <li><b>Submit the homework by Friday night at 11:00 PM Pacific Time. </b>You need to turn in a .pdf file consisting of your written-up solutions that also includes an attached pdf "printout" of your Jupyter notebook code on Gradescope. In addition, Gradescope has an option to associate pages of your work to each homework problem. You must select the relevant pages for every problem. <b>Any homework submissions that are turned in without the code “printout” (or screenshot) attached will receive a zero on the coded Jupyter notebook portions of the homework. Any problems without pages selected will receive zero credit.</b> If you have any questions about the format of a homework submission, please go to office hours or homework party. We will provide HW accommodations for students who have letters of accommodations from DSP services; other accommodation requests will be handled on a case-by-case basis.
-        </li>
+        <li><b>Submit the homework by Friday night at 11:00 PM Pacific Time.</b> We will accept submissions for full credit as long as your submission makes it into Gradescope before the late deadline of 12:00 AM. <b>Submissions on or after 12:00 AM will not be accepted.</b> We strongly recommend you use this one hour grace period to protect against technical issues and have your homework finished by 11:00 PM.</li>
         <li><b>Read the solutions.</b> Official solutions will be released after the homework submission deadline.</li>
         <li><b>Do the self-grade.</b> Grade your submitted work accordingly for every part of every problem in the homework on a simple coarse scale as described in the table below. Enter your self-grades into the posted self-grade form for that homework, which will generate a .txt file, and upload that .txt file to the appropriate self-grade assignment on Gradescope.
             <br>
@@ -492,7 +517,7 @@ function getCurrFont() {
             </p>
         </li>
         <li><b>Submit the self-grade by the Monday night following the homework deadline at 11:00 PM Pacific Time.</b>
-            (For example: Homework 2 is due on Friday 9/15 at 11:00 PM. The following Monday, 9/18, at 11:00 PM, your Homework 2 self-grades will be due.) <b>We will accept late self-grades up to a week after the original homework deadline for 75% credit on the associated homework assignment.</b> If you don't enter a proper self-grade after one week, you are giving yourself a zero on that assignment.
+            (For example: Homework 2 is due on Friday 9/15 at 11:00 PM. The following Monday, 9/18, at 11:00 PM, your Homework 2 self-grades will be due.) We will accept submissions for full credit as long as your submission makes it into Gradescope before the late deadline of 12:00 AM. <b>We will accept late self-grades up to a week after the original homework deadline for 75% credit on the associated homework assignment.</b> If you don't enter a proper self-grade after one week, you are giving yourself a zero on that assignment.
         </li>
     </ol>
 
@@ -541,7 +566,7 @@ function getCurrFont() {
         Discussion is a key component to learning the material in this class, and to keep you motivated and on track, you can opt-in to discussion participation and earn points towards your grade by attending discussion. Every week, discussion will be held on Monday and Wednesday. Different material will be covered on Monday and Wednesday, so you are encouraged to attend on both days. You may choose to attend any discussion section time on a given day, and are encouraged to try out different TAs’ discussion sections to find which one works best for you. Discussion sections will take place in-person.
     </p>
     <p>
-        At the beginning of the semester, you will fill out a form indicating whether you’d like to opt-in or opt-out of discussion participation. <p>This form is binding, and you may not change your preference later on in the semester.</b> If you opt-in for discussion participation, you will receive credit for attending discussion sections, and it will count as a category of your grade. If you opt-out of discussion participation, discussion attendance will not be factored into your grade. The purpose of this policy is to recognize and acknowledge the efforts of students who continue to invest time in the course throughout the semester. Regardless of whether it counts towards your grade, <b>we highly encourage you to attend discussion sections</b>, as a big part of your learning will be done in this interactive, classroom setting.
+        At the beginning of the semester, you will fill out a form indicating whether you’d like to opt-in or opt-out of discussion participation. This form is binding, and you may not change your preference later on in the semester.</b> If you opt-in for discussion participation, you will receive credit for attending discussion sections, and it will count as a category of your grade. If you opt-out of discussion participation, discussion attendance will not be factored into your grade. The purpose of this policy is to recognize and acknowledge the efforts of students who continue to invest time in the course throughout the semester. Regardless of whether it counts towards your grade, <b>we highly encourage you to attend discussion sections</b>, as a big part of your learning will be done in this interactive, classroom setting.
     </p>
     <p>
         <b>For students who opted-in for discussion participation</b>: Discussion participation is worth a maximum of 12 points. This is measured by discussion attendance. For each discussion section that you attend, you will fill out an attendance form to count your participation. You must attend 16 discussion sections to get full participation points. Please note that this number is the minimum required for full credit, but you are highly encouraged to attend more discussions. If you do not get full credit, your grade will be calculated by the number of discussion checkoffs you complete; e.g., if you attend 14 discussions or complete 14 checkoffs, you will have 14/16  * 12 points in this category.
@@ -553,7 +578,8 @@ function getCurrFont() {
         Discussion sections are a great way to apply concepts taught in lecture to practice problems, interact with enthusiastic and dedicated TAs, and collaborate with peers in a smaller group setting. It’s a great way to meet other students in the course, and we notice that students who regularly attend discussions find the homeworks and exams more easy and manageable.
     </p>
     <p>
-        You have till <b>Friday, September 15th at 11:00 PM Pacific Time</b> to fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSeSHpkQYhBXxX9xJRnjIW-KWSZVjew4VH2kvLkgfsO6D2WGaA/viewform" target="_blank">mandatory form</a> indicating whether you opt-in or opt-out of discussion participation. This gives you the opportunity to try out discussion sections for the first couple of weeks before deciding, as you may not change your decision later on. We will be tracking attendance starting from 8/28, so make sure to fill out the attendance form for every discussion you attend from then on (unless you are 100% sure you want to opt-out). Again, please fill out the form by the deadline and <b>make your decision carefully; your decision is binding</b>. If you do not fill it out, we will assume that you are opting-out.
+        The form (<a target="_blank" href="https://forms.gle/rHnQ3AimyKxKE6VP7">linked here</a>)for indicating whether you opt-in or opt-out of discussion participation is due by <b>Friday, September 15th at 11:00 PM Pacific Time</b>. This gives you the opportunity to try out discussion sections for the first couple of weeks before deciding, as you may not change your decision later on. We will be tracking attendance starting from 8/28, so make sure to fill out the attendance form for every discussion you attend from then on (unless you are 100% sure you want to opt-out). Again, please fill out the form by the deadline and <b>make your decision carefully; your decision is binding</b>. If you do not fill it out, we will assume that you are opting-out.
+
     </p>
 <!--    <p>-->
 <!--        Participation is worth a maximum of 10 points. This is measured by discussion attendance. For each discussion-->
@@ -650,7 +676,7 @@ function getCurrFont() {
 
     <h3>Exam Policies</h3>
     <a class="anchor" id="exampolicy"></a>
-    <p> <b> There are two midterms and one final. All exams will be held in-person. The midterms will be held in-class on Oct 3rd and Nov 9th during the regular lecture time from 9:30am to 11:00am PT in Wheeler 150. The final will be held on Tuesday, Dec 12th, from 3:00pm to 6:00pm PT. </b> </p>
+    <p> <b> There are two midterms and one final. All exams will be held in-person. The midterms will be held in-class during the regular lecture time from 9:30am to 11:00am PT in Wheeler 150. The first midterm will be held on Tuesday October 3, and the second midterm will be held on Thursday November 9. The final will be held on Tuesday, Dec 12th, from 3:00pm to 6:00pm PT. </b> </p>
     <p><b>Makeup exams will not be scheduled. Alternate exam times will not be provided under any circumstances, except for students requiring specific DSP accommodations. Please contact us privately if you have any concerns.
     </b></p>
     <p>
@@ -676,12 +702,11 @@ function getCurrFont() {
     <h3>Exceptions</h3>
     <a class="anchor" id="exceptions"></a>
     <p>
-        <b>Any requests for exceptions should be emailed to the Head GSI at <a rel="noopener noreferrer" target="_blank"
-                                                                               href="mailto:eecs16a@berkeley.edu">eecs16a@berkeley.edu</a>.</b>
+        <b>Any requests for exceptions should be submitted through <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdF5GbufdXpg-o1SijuZ3l3XHJ1-pi5oSUEsvgiGuXxAhFGCQ/viewform?usp=sf_link">this form</a></b>.
         Email the exception request as soon as possible, as retroactive exceptions will likely not be approved. Exceptions will be handled on a case-by-case basis. Examples of situations that merit an exception are medical emergencies and family emergencies. No exceptions will be granted after final exam scores have been released.
     </p>
     <p>
-        Accommodations will be provided to students who have letters of accommodations from DSP services and students facing hardships. </p>    </p>
+        Accommodations will be provided to students who have letters of accommodations from DSP services and students facing hardships. Accommodations should also be submitted with the <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdF5GbufdXpg-o1SijuZ3l3XHJ1-pi5oSUEsvgiGuXxAhFGCQ/viewform?usp=sf_link">above form</a>.</p>    </p>
     <!--     <p>
           If you can foresee unstable or limited WiFi access to an upcoming exam, contact <a rel="noopener noreferrer" target="_blank" href="mailto:eecs16a@berkeley.edu">eecs16a@berkeley.edu</a> to determine a procedure that will support you. Additionally, if your WiFi access is disrupted or fails during the exam, contact <a rel="noopener noreferrer" target="_blank" href="mailto:eecs16a@berkeley.edu">eecs16a@berkeley.edu</a> as soon as possible for an alternative arrangement.
         </p> -->
@@ -697,18 +722,15 @@ function getCurrFont() {
         If you have a question, your best option is to post a message on Ed. The staff (instructors and TAs) will check Ed regularly, and if you use Ed, other students will be able to help you too. When using Ed, please avoid off-topic discussions, and please do not post answers to homework questions before the homework is due. Also, always look for an appropriate category to post the question to (for example, each homework will have its own category, so please post there). That will ensure you get the answer faster.
     </p>
     <p>
-        If your question is personal or not of interest to other students, you may mark your question as private on Ed, so only the instructors will see it. If you wish to talk with one of us individually, you are welcome to come to our office hours.
+        If your question is personal or not of interest to other students, we encourage you to email us (see the top of this page for all the course emails) rather than making private Ed posts. If you wish to talk with one of us individually, you are welcome to come to our office hours. Please reserve email for the questions you can’t get answered in office hours, in discussion sections, or through Ed.
     </p>
-    <p>
-        If your question is personal or not of interest to other students, we encourage you to email us (see the top of this page for all the course emails) rather than making private Ed posts. If you wish to talk with one of us individually, you are welcome to come to our office hours. Please reserve email for the questions you can't get answered in office hours, in discussion sections, or through Ed.
-    </p>
-    <p>
+
         <b>For any exceptions that are of a personal nature</b>, please contact the head GSI at <a
             rel="noopener noreferrer" target="_blank" href="mailto:eecs16a@berkeley.edu">eecs16a@berkeley.edu</a>.
         Technical and homework questions are best resolved in homework party, Ed, and during office hours.
     </p>
     <p>
-        It can be challenging for the instructors to gauge how smoothly the class is going. We always welcome any feedback on what we could be doing better. If you would like to send anonymous comments or criticisms, please fill out this anonymous feedback <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5oYOxMOncIkvXccXu93I6wT5LMBaibVHla-BcidlIRisKvg/viewform" target="_blank">form</form>.
+        It can be challenging for the instructors to gauge how smoothly the class is going. We always welcome any feedback on what we could be doing better. If you would like to send anonymous comments or criticisms, please fill out this anonymous feedback <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5oYOxMOncIkvXccXu93I6wT5LMBaibVHla-BcidlIRisKvg/viewform" target="_blank">form</a>.
     </p>
 
     <h3>Collaboration</h3>
@@ -729,7 +751,7 @@ function getCurrFont() {
     <h3>16A Study Group Formation</h3>
     <a class="anchor" id="studyGroups"></a>
     <p>
-        We believe that an important part of learning is learning with others; your study groups will become a crucial factor to your success in all your classes, including EECS16A. To help you find a study group, we have a course-run study group formation program and associated class, EE194: Community in Computing. EE194 is a 1 unit P/NP class in which students will meet weekly with their assigned study groups. While participation is completely optional, we highly encourage you to work in groups. Your very first homework will have an opportunity for you to be matched into study groups based on your preferences!
+        We believe that an important part of learning is learning with others; your study groups will become a crucial factor to your success in all your classes, including EECS16A. To help you find a study group, we have a course-run study group formation program and associated class, <a target="_blank" href="https://www2.eecs.berkeley.edu/Courses/EE194/">EE194: Community in Computing</a>. EE194 is a 1 unit P/NP class in which students will meet weekly with their assigned study groups. While participation is completely optional, we highly encourage you to work in groups. Your very first homework will have an opportunity for you to be matched into study groups based on your preferences!
     </p>
 
     <h3>Don't Be Afraid to Ask for Help</h3>
@@ -825,61 +847,33 @@ function getCurrFont() {
 
     <h3>Resources</h3>
     <a class="anchor" id="otherresources"></a>
+
     <h3>For academic performance:</h3>
     <p>
-        <a href="https://engineering.berkeley.edu/student-services/academic-support" target="_blank">The Center for
-            Access to Engineering Excellence or CAEE</a> (227 Bechtel Engineering Center) is an inclusive center that
-        offers study spaces, nutritious snacks, and tutoring in >50 courses for Berkeley engineers and other majors
-        across campus. The Center also offers a wide range of professional development, leadership, and wellness
-        programs, and loans iclickers, laptops, and professional attire for interviews.
+        <a href="https://engineering.berkeley.edu/student-services/academic-support" target="_blank">
+            The Center for Access to Engineering Excellence or CAEE </a>(325 Davis Hall) is an inclusive center that offers study spaces, nutritious snacks, and tutoring in >50 courses for Berkeley engineers and other majors across campus. The Center also offers a wide range of professional development, leadership, and wellness programs, and loans iclickers, laptops, and professional attire for interviews.
+            <a href="https://studenttech.berkeley.edu/step" target="_blank">Technology Needs (STEP)</a>: Student Technology Equity Program (STEP). STEP provides need-based laptops and other technologies for free for undergraduate, graduate, and professional students at UC Berkeley.
     </p>
     <h3>For disability accommodations:</h3>
     <p>
-        <a href="http://dsp.berkeley.edu" target="_blank">The Disabled Student’s Program</a> (DSP 260 César Chávez
-        Student Center #4250; 510-642-0518) serves students with disabilities of all kinds, including temporary
-        disabilities. Services are individually designed and based on the specific needs of each student as identified
-        by DSP's Specialists. If you have already been approved for accommodations through DSP, please know that DSP is
-        ready to quickly adjust your accommodations if your situation changes.
-    </p>
+        <a href="https://dsp.berkeley.edu" target="_blank">The Disabled Student’s Program</a> (DSP 260 César Chávez Student Center #4250; 510-642-0518) serves students with disabilities of all kinds, including temporary disabilities. Services are individually designed and based on the specific needs of each student as identified by DSP's Specialists. If you have already been approved for accommodations through DSP, please know that DSP is ready to quickly adjust your accommodations if your situation changes.
+
     <h3>For mental wellbeing:</h3>
     <p>
-        <a href="http://uhs.berkeley.edu/caps" target="_blank">Counseling and Psychological Services (CAPS)</a>
-        Counseling and Psychological Services is available as part of University Health Services (the Tang Center).
-        Services are offered at many locations, including <a
-            href="https://engineering.berkeley.edu/students/advising-counseling/counseling/">on-site in the College of
-        Engineering</a>. CAPS services are available to all students, regardless of insurance, and initial visits do not
-        cost anything. CAPS has expanded allowing students to receive help immediately with same-day counseling
-        (510-642-9494), online resources, and a 24/7 counseling line at (855) 817-5667. Short-term help is also
-        available from the Alameda County Crisis hotline: 800-309-2131. If you, or someone you know, is experiencing an
-        emergency that puts their health at risk, please call 911.
-    </p>
+        <a href="https://uhs.berkeley.edu/caps" target="_blank">Counseling and Psychological Services</a> is available as part of University Health Services at the Tang Center (2222 Bancroft Way #4300; 510-642-9494). Services are offered at many locations, including <a href="https://engineering.berkeley.edu/students/advising-counseling/counseling/" target="_blank"> on-site in the College of Engineering</a>. CAPS services are available to all students, regardless of insurance, and initial visits do not cost anything. CAPS has expanded allowing students to receive help immediately with same-day counseling (510-642-9494), online resources, and a 24/7 counseling line at 855-817-5667. Short-term help is also available from the Alameda County Crisis hotline: 800-309-2131. If you, or someone you know, is experiencing an emergency that puts their health at risk, please call 911.
+
     <h3>For recovery from sexual harassment or sexual assault:</h3>
     <p>
-        <a href="https://care.berkeley.edu/care-line/">The Care Line (PATH to Care Center)</a> (510-643-2005) is a 24/7,
-        confidential, free, campus-based resource for urgent support around sexual assault, sexual harassment,
-        interpersonal violence, stalking, and invasion of sexual privacy. The Care Line will connect you with a
-        confidential advocate for trauma-informed crisis support including time-sensitive information, securing urgent
-        safety resources, and accompaniment to medical care or reporting.
+        <a href="https://care.berkeley.edu/care-line/">The Care Line (PATH to Care Center) </a>(510-643-2005) is a 24/7, confidential, free, campus-based resource for urgent support around sexual assault, sexual harassment, interpersonal violence, stalking, and invasion of sexual privacy. The Care Line will connect you with a confidential advocate for trauma-informed crisis support including time-sensitive information, securing urgent safety resources, and accompaniment to medical care or reporting.
     </p>
     <h3>For solving a dispute:</h3>
     <p>
-        <a href="http://students.berkeley.edu/Ombuds" target="_blank">The Ombudsperson for Students</a> (102 Sproul
-        Hall; 642-5754) provides a confidential service for students involved in a University-related problem (academic
-        or administrative), acting as a neutral complaint resolver and not as an advocate for any of the parties
-        involved in a dispute. The Ombudsman can provide information on policies and procedures affecting students,
-        facilitate students' contact with services able to assist in resolving the problem, and assist students in
-        complaints concerning improper application of University policies or procedures. All matters referred to this
-        office are held in strict confidence.
+        <a href="http://students.berkeley.edu/Ombuds" target="_blank">The Ombudsperson for Students</a>  (250 Sproul Hall; 510-642-5754) provides a confidential service for students involved in a University-related problem (academic or administrative), acting as a neutral complaint resolver and not as an advocate for any of the parties involved in a dispute. The Ombudsman can provide information on policies and procedures affecting students, facilitate students' contact with services able to assist in resolving the problem, and assist students in complaints concerning improper application of University policies or procedures. All matters referred to this office are held in strict confidence. The only exceptions, at the sole discretion of the Ombudsman, are cases where there appears to be imminent threat of serious harm.
+
     </p>
     <h3>For basic needs (food, shelter, etc):</h3>
     <p>
-        <a href="https://basicneeds.berkeley.edu/" target="_blank">The Basic Needs Center</a> provides housing, food,
-        transportation support, among other support needed to thrive at UC Berkeley. Specifically, the <a
-            href="https://pantry.berkeley.edu">UC Berkeley Food Pantry</a> (#68 Martin Luther King Student Union) aims
-        to reduce food insecurity among students, especially the lack of nutritious food. Students can visit the pantry
-        as many times as they need and take as much as they need while being mindful that it is a shared resource. The
-        pantry operates on a self-assessed need basis; there are no eligibility requirements. The pantry is not for
-        students and staff who need supplemental snacking food, but rather, core food support.
+        <a target="_blank" href="https://basicneeds.berkeley.edu/">The Basic Needs Center</a> provides housing, food, transportation support, among other support needed to thrive at UC Berkeley. Specifically, the <a href="https://pantry.berkeley.edu/" target="_blank">UC Berkeley Food Pantry</a>  (check-in at 1st floor of MLK Student Union) aims to reduce food insecurity among students, especially the lack of nutritious food. Students can visit the pantry as many times as they need and take as much as they need while being mindful that it is a shared resource. The pantry operates on a self-assessed need basis; there are no eligibility requirements. The pantry is not for students and staff who need supplemental snacking food, but rather, core food support.
     </p>
 
     <h3>Advice</h3>

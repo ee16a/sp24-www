@@ -1,134 +1,307 @@
 -   name: Anish Dhanashekar
     email: eecs16a@, aeroanish@
     bio: "Hey everyone! I’m Anish! I’m a third-year EECS major from Tampa, Florida. This is my fourth time on staff, and I’m super excited to serve as a Head TA for 16A this semester and contribute to making this course a great experience for you all! I thoroughly enjoyed the content in 16A and hope you find appreciation for it as well! Outside the classroom, I enjoy hanging out with friends, hiking around Berkeley’s beautiful campus, listening to music, and traveling. My technical interests include robotics, machine learning, and chip design. Feel free to reach out to me about anything - I’d love to chat!"
-    role: Head/Admin/Dis
-    image: AnishDhanashekar.png
-    imageFun: AnishDhanashekarFun.png
+    role: Head TA
+    image: AnishDhanashekar.jpg
+    imageFun: AnishDhanashekarFun.jpg
     pronouns: he/him/his
 -   name: Vivian Wu
     email: eecs16a@, vivianwuc25@
     bio: "Hi, it’s Vivian! I’m a junior majoring in EECS and Business, originally from San Diego, CA. I'm currently exploring applications of AI/ML and tech in business. In my free time, I enjoy traveling, reading, eating (very) spicy food, and drinking matcha. Through linear algebra and circuit design, 16A showed me the power of mathematical tools and models in real world applications, and it's my mission to make 16A as rewarding and enriching for you as it was for me!"
-    role: Head/Admin/Dis
-    image: VivianWu.png
-    imageFun: VivianWuFun.png
+    role: Head TA
+    image: VivianWu.jpg
+    imageFun: VivianWuFun.jpg
     pronouns: she/her/hers
 -   name: Kanav Mittal
     email: eecs16a@, kanavmittal@
-    bio: "Hi! My name is Kanav, and I'm a third-year EECS major. I loved taking 16A because it showed me how to model and interact with the real world using linear algebra and circuits. On campus, I'm involved with computational genomics research. In my free time, you can find me running the Fire Trails, watching sitcoms, and listening to all of Taylor Swift's albums. I look forward to meeting all of you!"
-    role: Head/Admin/Dis
+    bio: "Hi! My name is Kanav, and I'm a third-year EECS major. I loved taking 16A because it showed me how to model and interact with the real world using linear algebra and circuits. On campus, I'm involved with computational genomics research. In my free time, you can find me running the Fire Trails, watching sitcoms, or listening to all of Taylor Swift's albums. I look forward to meeting all of you!"
+    role: Head TA
     image: KanavMittal.jpg
     imageFun: KanavMittalFun.jpg
+    pronouns: he/him/his
+-   name: Anastasia Simonova
+    email: eecs16a.lab@, asimonova@
+    bio: "Hi everyone! My name is Anastasia, and I also go by Nastia. I am a transfer super senior majoring in EECS and minoring in Political Economy. My technical interests include quantum information science, quantum materials, and circuit design. In my free time, I enjoy working out, dancing, and traveling. I love 16A because it gives fundamental knowledge of linear algebra and circuitry through real-life applicable examples. I look forward to seeing everyone in the lab, and I hope you enjoy the labs as much as I do!"
+    role: Head Lab
+    image: AnastasiaSimonova.jpg
+    imageFun: AnastasiaSimonovaFun.jpg
+    pronouns: she/her/hers
+-   name: Carol Li
+    email: eecs16a.lab@, carol.li@
+    bio: "Hi everyone! I’m an EECS major, and this will be my fourth semester on 16A course staff. I really enjoyed lab when I took this class, and I hope to provide a similar experience for you all. Outside of the classroom, I enjoy watching TV shows, drinking boba, and have recently been delving back into the fiber arts. I hope you’ll enjoy your time in this course, and feel free to reach out to me! "
+    role: Head Lab
+    image: CarolLi.jpg
+    pronouns: she/her/hers
+-   name: Aniruddh Khanwale
+    email: akhanwale@
+    bio: "Hello! My name is Aniruddh, and I'm a 5th Year M.S. student in Materials Science  from sunny San Diego! I was in your shoes just a few years ago, and graduated this spring! This is my fourth year on staff 🤩, and every semester has been better than the last! In my free time, I enjoy cooking, reading, and going on hikes in the hills. Come talk to me if you're interested in learning about all the cool upper divs at Cal (EECS or otherwise), getting involved in research, or you're just bored :) Looking forward to another amazing semester!"
+    role: Lab TA + Admin
+    image: AniruddhKhanwale.jpg
+    imageFun: AniruddhKhanwaleFun.jpg
     pronouns: he/him/his
 -   name: Sunash Sharma
     email: sbsharma@
     bio: "Hi! I'm Sunash, a 3rd year EECS PhD student studying modeling, control, and optimization of electric power systems with lots of renewable resources. In my free time, I enjoy hiking, camping, and exploring new places."
-    role: Content/Dis
+    role: GSI
     image: SunashSharma.jpg
     imageFun: SunashSharmaFun.jpg
     pronouns: he/him/his
-    long: true
 -   name: Sayan Seal
     email: sayan_seal@
     bio: "Hi! I am a graduate student in the EECS department, but I primarily work with the MCB department. My research interests include deep learning and microscopy. In my free time, I enjoy hiking and traveling around, reading books, and cooking. I am also into numismatics, and love collecting currencies of different countries. Feel free to reach out to me about anything!"
-    role: Content/Dis
-    image: SayanSeal.jpg
+    role: GSI
+    image: SayanSeal.JPG
     pronouns: he/him/his
-    long: true
 -   name: Jiarui Zou
     email: jiarui.zou@
     bio: "Greetings! I'm Jiarui, a 3rd year Ph.D. student in Electrical Engineering, specializing in circuit design. My passions include computer hardware, driving, cycling, and I'm excited to engage with you all in class!"
-    role: Content/Dis
-    image: JiaruiZou.jpg
+    role: GSI
+    image: JiaruiZou.JPG
     pronouns: he/him/his
--   name: Aniruddh Khanwale
-    email: akhanwale@
-    bio: "Hello! My name is Aniruddh, and I'm a 5th Year M.S. student in Materials Science  from sunny San Diego! I was in your shoes just a few years ago, and graduated this spring! This is my fourth year on staff 🤩, and every semester has been better than the last! In my free time, I enjoy cooking, reading, and going on hikes in the hills. Come talk to me if you're interested in learning about all the cool upper divs at Cal (EECS or otherwise), getting involved in research, or you're just bored :) Looking forward to another amazing semester!"
-    role: Admin/Lab
-    image: AniruddhKhanwale.png
-    imageFun: AniruddhKhanwaleFun.jpeg
+-   name: Manooshree Patel
+    email: manooshreepatel@
+    bio: "Hello! I'm a 2nd year PhD student in Education. My research interests focus on how to ease the transition for first year students in EECS. I love to bake sourdough, run along the water, and going to Berkeley Bowl. Very excited to meet and learn with you all this semester! "
+    role: GSI
+    image: ManooshreePatel.jpg
+    imageFun: ManooshreePatelFun.jpg
+    pronouns: she/her/hers
+-   name: Youbin Kim
+    email: youbin_kim@
+    bio: "Hi! I'm Youbin and I'm a 6th year PhD student in EECS at Berkeley. I study digital integrated circuits with a focus on designing custom hardware to accelerate machine learning applications. This is my second semester as a GSI for this course, looking forward to meeting you all! Outside of research you can usually find me outdoors: skiing, hiking or playing tennis."
+    role: GSI
+    image: YoubinKim.jpg
     pronouns: he/him/his
+-   name: Sabriya Alam
+    email: sabriya.alam@
+    bio: "Hi, I’m Sabriya! I came to Berkeley from Purdue University, in my home state of Indiana (so you know I’m a fan of corny jokes!). I’m now a 3rd-year PhD student in Computer Science, and I work with Professor Niloufar Salehi, doing research at the intersection of Artificial Intelligence and Human-Computer Interaction. I’m passionate about improving AI systems to more effectively support underserved populations in socially impactful sectors like education and healthcare. I study how algorithmic systems impact these communities, and I work on building and testing AI tools to mitigate disparities. Outside of research, I love to read (usually with boba in hand), volunteer in the community, and hang out with my cat. This is my first time as a GSI, and I look forward to a great semester!"
+    role: GSI
+    image: SabriyaAlam.jpg
+    imageFun: SabriyaAlamFun.jpg
+    pronouns: she/her/hers
 -   name: Jack Kang
     email: dongwon900@
     bio: "Hello! My name is Jack, and I'm a rising junior majoring in CS. I'm passionate about building things, with my current technical interests being in signals, communication systems, embedded systems, and applications in art and music. I see computers as being the 'glue' that holds together the components of a technological solution to an interesting problem, which is why I chose to study them. I also like to play guitar, make things, and explore the outdoors in my free time. I often tell my students not to 'suffer in silence'; please don't hesitate to reach out to me in and outside of lab!"
-    role: Lab
+    role: Lab TA
     image: JackKang.jpg
-    imageFun: JackKangFun.jpeg
+    imageFun: JackKangFun.jpg
     pronouns: he/him/his
 -   name: Lydia Ignatova
     email: lydiaignatova@
     bio: "Hi! I'm Lydia, a third year EECS major focusing on machine learning but also getting a minor in demography. I love 16A lab sections because of how fun the hands-on applications are, it's so cool to see a tangible use of the concepts we learn in class. In my free time I like playing board games, bullet journaling, biking, listening to podcasts, hitting the gym, and exploring museums. I'm excited to meet you all!"
-    role: Lab
+    role: Lab TA
     image: LydiaIgnatova.jpg
     pronouns: she/her/hers
 -   name: Oscar Gallegos
     email: oscar.tapia.g@
     bio: "Hello! I'm Oscar, I am a third year physics and computer science student, originally from Mexico, but lived in the US for a very big chunk of my life. I like semiconductors, and other cool physics stuff like quantum computers. Outside of school, I like playing video games, hanging out with friends, and watching and playing sports mostly soccer and football. Looking forward to having a good time in lab!"
-    role: Lab
-    image: OscarAlbertoTapiaGallegos.png
+    role: Lab TA
+    image: OscarAlbertoTapiaGallegos.jpg
     imageFun: OscarAlbertoTapiaGallegosFun.jpg
 -   name: Eric Garcia
     email: e.garcia@
     bio: "Hey everyone! I'm Eric, a 3rd year CS student born and raised in San Diego. I like to play video games, but especially fighting games and Tetris. If you like either of those things, I'd love to talk with you about it! This is my first semester as a TA, and I hope I can show you all why lab is the absolute best part of 16A :)"
-    role: Lab
+    role: Lab TA
     image: EricGarcia.jpg
     imageFun: EricGarciaFun.jpg
     pronouns: he/him/his
 -   name: Nikhil Ograin
     email: ncograin@
     bio: "Hi! I’m Nikhil and I’m a third year EECS major. Coincidentally this is also my third semester on course staff! My technical interests are low-level programming, computer architecture, and HV PCB design. In my freetime I read books, play board/card/video games, look at airplanes, and bicycle. I’m so excited to delve back into circuits and meet everyone in lab! Feel free to reach out about the course, about lab, or about anything else!"
-    role: Lab
+    role: Lab TA
     image: NikhilOgrain.jpg
     pronouns: he/him/his
 -   name: Amy Song
     email: amysong@
     bio: "Hi! I'm a junior majoring in EECS. I loved taking 16A as a student and I hope you will too! In my free time, you can find me hiking, trying out new coffee shops, or listening to music. Feel free to reach out to me about anything :)"
-    role: OH/Grading
+    role: Office Hours Staff
     image: AmySong.jpg
     imageFun: AmySongFun.jpg
     pronouns: she/her/hers
 -   name: SooHyuk Cho
     email: soohyuk.cho@
     bio: "Hi, everyone! I'm a 3rd year CS + DS double major from Seoul, South Korea. This is my 4th semester on 16A staff team. My technical interests include various aspects of hardware and software--from computer architecture to robotics & control. I like playing the piano in my free time unless I'm stuck in the library lol. Any recommendations for classical or new age piano pieces are always welcome! Looking forward to another amazing semester!"
-    role: Ed/OH/Grading
+    role: Office Hours Staff
     image: SooHyukCho.jpg
-    imageFun: SooHyukChoFun.jpg
+    imageFun: SooHyukChoFun.JPG
     pronouns: he/him/his
 -   name: Divya Ramesh
     email: divyaramesh@
     bio: "Hi! My name is Divya and I'm a 2nd year EECS major from San Diego. In my free time, I like to run, play field hockey, and watch bad horror movies with my friends. 16A was one of my favorite classes last year, and I hope you'll enjoy it as well. Please don't hesitate to reach out if you have any questions!"
-    role: OH/Software/Grading
-    image: DivyaRamesh.png
-    imageFun: DivyaRameshFun.png
+    role: Office Hours Staff
+    image: DivyaRamesh.jpg
+    imageFun: DivyaRameshFun.jpg
     pronouns: she/her/hers
 -   name: Thomas Chen
     email: tochen920@
     bio: "Hi! My name is Thomas and I am a senior studying Computer Science and Applied Math from Portland, Oregon. In my free time I enjoy board games, watching an absurd amount of Youtube, and reading books. I love listening to indie, alternative and folk music but I'm always willing to try out new music. Feel free to talk to me about anything!"
-    role: OH/Grading
+    role: Office Hours Staff
     image: ThomasChen.jpg
     pronouns: he/him/his
 -   name: Alex Sanchez
     email: alexso@
     bio: "¡Hola, hola! Welcome to Fall 2023's iteration of Defense Against the 16-Arts! My name is Alex, and I am here to aid you along every step of the way. Don't hesitate to reach out if you have any questions about course material, classes, research, or anything along those lines. If you need a break from 16A, we can talk about learning languages, traveling the globe, your favorite books, sports, and more! Looking forward to a wonderful semester with you, my friend!"
-    role: Ed/OH/Grading
+    role: Office Hours Staff
     image: AlexSanchez.jpg
     imageFun: AlexSanchezFun.jpg
     pronouns: he/him/his
 -   name: Carolann Dong
     email: carolanndong@
     bio: "Hi! I'm a second-year majoring in CS with an interest in most aspects of software engineering. I really enjoyed taking 16A as a student, and I hope you will too! In my free time, I like to read, (attempt to) crochet, and bake. Feel free to reach out to me about anything :)"
-    role: OH/Grading
+    role: Office Hours Staff
     image: CarolannDong.jpg
     imageFun: CarolannDongFun.jpg
     pronouns: she/her/hers
 -   name: Kailash Ranganathan
     email: kranganathan@
     bio: "Hi everyone! I'm Kailash, a rising 2nd year studying EECS and physics. I’m interested in ML theory & hardware and condensed matter physics, and in my free time, I like to play music, read, and go on runs (in no particular direction). 16A was a great learning experience for me, so I'm excited to tutor this semester and meet you all!"
-    role: OH/Grading
+    role: Office Hours Staff
     image: KailashRanganathan.jpg
     pronouns: he/him/his
 -   name: Rohan Aanegola
     email: rohanaanegola@
     bio: "Hi! I'm a second year EECS major and I'm interested in computer vision and robotics! I'm also super into basketball (Lakers ftw), anime, and Star Wars! May the force be with you, and Plus Ultra :)"
-    role: OH/Grading
+    role: Office Hours Staff
     image: RohanAanegola.jpg
+    pronouns: he/him/his
+-   name: Teja Kanthamneni
+    email: tk164@
+    bio: "Hi, I'm Teja! I'm a third-year CS major, and this will be my first semester on 16A course staff. Since last spring I've been doing research in robotics and reinforcement learning. In my free time, I enjoy hiking, playing basketball, and watching anime. I really enjoyed 16A when I was a student, and I look forward to working with everyone!"
+    role: Office Hours Staff
+    image: TejaKanthamneni.jpg
+    pronouns: he/him/his
+-   name: Tvisha Londhe
+    email: tvisha.londhe@
+    bio: "Hi! I am Tvisha, a sophomore studying EECS. I am interested in machine learning and cloud computing for scaling applications. I love playing tennis, running, and going on hikes with my dog: ) I am very excited to help with EECS 16A this semester! "
+    role: Office Hours Staff
+    image: TvishaLondhe.jpg
+    imageFun: TvishaLondheFun.jpg
+    pronouns: she/her/hers
+-   name: Alexander Di
+    email: alexanderdi@
+    bio: "I'm a junior studying EECS and chemistry. Aside from microelectronics and embedded systems, you can find me enjoying origami folding and tennis. Excited to meet you all this semester!"
+    role: Lab Staff
+    image: AlexanderDi.jpg
+    pronouns: he/him/his
+-   name: Alex Um
+    email: syeon-um@
+    bio: "Hi All! I'm Alex, a rising sophomore from Sunnyvale majoring in IEOR and EECS. I like to code, analyze circuits, and play the piano. Looking forward to meeting you all!"
+    role: Lab Staff
+    image: AlexUm.JPG
+    imageFun: AlexUmFun.jpg
+    pronouns: he/him/his
+-   name: Ronit Nagarapu
+    email: ronitnag04@
+    bio: "Hey everyone, I’m Ronit! I’m a second year EECS major from the Chicago suburbs, and this is my second year on course staff. My technical interests lie in computer architecture and chip design. I also love taekwondo and tennis. My favorite part of 16A are the hands-on applications you get to see in the labs!"
+    role: Lab Staff
+    image: RonitNagarapu.jpg
+    pronouns: he/him/his
+-   name: Katie Sie
+    email: katie.sie@
+    bio: "Hey, everyone! I'm a third year studying Bioengineering and EECS with special interests in engineering phages, computational biology, and learning what the intersection of my majors can do. When I'm not explaining why the East Coast is superior, I enjoy reading memoirs, drinking non-coffee drinks at cafes, and crocheting."
+    role: Lab Staff
+    image: KatieSie.jpg
+    imageFun: KatieSieFun.jpg
+    pronouns: she/her/hers
+-   name: Jessica Ng
+    email: jessica_n@
+    bio: "Hi! I’m Jessica, a second-year computer science major from the Bay Area! You can usually find me reading, crocheting, playing snake, or binge-watching reality tv. I'm so excited to meet everyone this semester!"
+    role: Lab Staff
+    image: JessicaNg.jpg
+    pronouns: she/her/hers
+-   name: Erik Ma
+    email: erikjma@
+    bio: "Hi y'all! My name is Erik, and I'm a sophomore majoring in EECS. I'm passionate about building things with my hands, with my main technical interests being in robotics, automation, and embedded systems. I also like to play ultimate frisbee, binge watch TV shows/movies on 2x speed, and collect figurines. I love talking to people so if you ever see me around campus, feel free to say hi!"
+    role: Lab Staff
+    image: ErikMa.jpg
+    imageFun: ErikMaFun.jpg
+    pronouns: he/him/his
+-   name: Haojun Zhuang
+    email: rickyzhuang2003@
+    bio: "Hi there! I am a 3rd-year student majoring in Computer Science, minoring in Bioengineering, and doing brain research. When I'm not coding, you will find me playing FIFA, building cities, or feeding my cat."
+    role: Lab Staff
+    image: HaojunZhuang.jpg
+    imageFun: HaojunZhuangFun.jpg
+    pronouns: he/him/his
+-   name: Advay Ratan
+    email: advayratan@
+    bio: "What's up. I'm Advay and I'm a sophomore studying EECS. This is my first semester on the 16A course staff. Labs are one of the best parts of 16A and I'm excited to be a part of helping you through that process. On the EE side of things, I'm interested in integrated circuits. Hit me up if you like rock/metal and would like to jam. Or if you have questions about the class."
+    role: Lab Staff
+    image: AdvayRatan.jpg
+    pronouns: he/him/his
+-   name: Henric Zhang
+    email: henriczhang@
+    bio: "I am a junior studying computer science and applied math. I like to watch youtube and play games!"
+    role: Lab Staff
+    image: HenricZhang.jpg
+    imageFun: HenricZhangFun.jpg
+    pronouns: he/him/his
+-   name: Min Son
+    email: tom5079@berkeley.edu
+    bio: "4th year EECS major here! Currently speedrunning through Berkeley 😭"
+    role: Lab Staff
+    image: MinSon.jpg
+    pronouns: he/him/his
+-   name: Leo Huang
+    email: klhftco@berkeley.edu
+    bio: "Hi! I'm Leo, a fourth-year BioE and EECS major from Vancouver, WA with a passion for biomimetic robotics and medical devices. My free time is usually filled with watching anime, biking, volleyball, and playing video games!"
+    role: Lab Staff
+    image: LeoHuang.jpeg
+    imageFun: LeoHuangFun.jpg
+    pronouns: he/him/his
+-   name: Aditya Madaraju
+    email: aditya.madaraju@
+    bio: "Hi! I'm Aditya, and I'm a third year EECS major. My technical interests include chip design, robotics, and signal processing. Outside of school, I enjoy hiking, going to the gym, cooking, and hanging out with friends. See you at lab!"
+    role: Lab Staff
+    image: AdityaMadaraju.jpg
+    pronouns: he/him/his
+-   name: Arnav Dalal
+    email: adalal542@
+    bio: "Hi everyone! My name is Arnav. I am a second year student studying EECS. I like traveling to cool new places, trying different cuisines, going on boba runs, playing frisbee, dancing, and baking. On the technical side, I like playing around with machine designs and fabricating with 3D printers along with exploring the intersection of robotics and AI.  This is my first semester serving on course staff for EECS 16A, so I'm super excited to meet and guide all of you! Feel free to reach out with any questions about the course or life in general. I'm willing to help in any way possible to make your course experience both fun and enriching!"
+    role: Lab Staff
+    image: ArnavDalal.jpg
+    pronouns: he/him/his
+-   name: Andrew Song
+    email: andrew_song@
+    bio: "Hey everyone! I'm Andrew and I'm a 2nd year majoring in EECS & IEOR from Cupertino, CA. My technical interests include robotics, analytics, and a little bit of AI. I enjoy playing poker and watching football during my time away from academics. 16A labs were my favorite part of the course and I'm excited to contribute to your journey as well!"
+    role: Lab Staff
+    image: AndrewSong.jpg
+    imageFun: AndrewSongFun.jpg
+    pronouns: he/him/his
+-   name: Rohit Kanagal
+    email: rkanagal@
+    bio: "Hi! I’m Rohit and I’m a third year EECS major. This is also my third semester on course staff! I do research in digital hardware design (ASICs/FPGAs), computer architecture, FPGA-accelerated simulators, and developing tools for VLSI flow. I also enjoy writing software for system / network / low-level applications. In my free time, I play football (aka soccer), travel, hiking, etc. Excited to meet you all! Feel free to talk to me about 16A, my research, or about anything else!"
+    role: Lab Staff
+    image: RohitKanagal.jpg
+    pronouns: he/him/his
+-   name: Hiya Shah
+    email: hiyashah@
+    bio: "Hello! I'm Hiya, a second year EECS major. 16A's labs were one of my favorite parts of the course because of how exciting it is to apply the course's concepts in a hands-on setting, and I hope you will love them too! In my free time, I enjoy skiing, cooking, and art. I'm excited to meet you all, and please feel free to reach out for anything! :)"
+    role: Lab Staff
+    image: HiyaShah.jpg
+    imageFun: HiyaShahFun.jpg
+    pronouns: she/her/hers
+-   name: Ayesha Mahfuz
+    email: ayeshamahfuz@
+    bio: "Hi! My name is Ayesha and I'm a rising sophomore majoring in computer science and data science. My research interests include computational biology, machine learning, and quantitative finance. In my free time, I enjoy being outdoors, trying and cooking new foods, and playing poker. "
+    role: Lab Staff
+    image: AyeshaMahfuz.jpg
+    pronouns: she/her/hers
+-   name: Shivanshi Tandon
+    email: shivanshitandon@
+    bio: "Hey! I am a second year studying EECS and Business. I’m interested in the intersections of my majors, such as product management, consulting, and software. In my free time, I like to work out, experiment in the kitchen, and explore new places! I really enjoyed the emphasis on application of content in EECS 16A, and I am sure you all will come  to enjoy the class as well! :)"
+    role: Lab Staff
+    image: ShivanshiTandon.jpg
+    imageFun: ShivanshiTandonFun.jpg
+    pronouns: she/her/hers
+-   name: Justin Lee
+    email: julee6@
+    bio: "Hello! I'm a junior studying computer science and my interests are in embedded systems and virtualization. During my free time I enjoy swimming, playing underwater hockey, and going on trips. Hope you enjoy this class!"
+    role: Lab Staff
+    image: JustinLee.JPG
+    pronouns: he/him/his
+-   name: Francesco Crivelli
+    email: crivelli@
+    bio: "Hi! My name is Francesco. I am a rising junior majoring in EECS. I have loved FPV since I was a young kid, starting from the basics, like breaking my mom's favorite jar. I am now focusing my studies in Robotics really interest into control, specially for UAV applications."
+    role: Lab Staff
+    image: FrancescoCrivelli.jpg
     pronouns: he/him/his
